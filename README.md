@@ -1,3 +1,3 @@
 # kut-ai-courses
 
-### repository for all the books
+### کتاب ها و جزوات هوش مصنوعی
